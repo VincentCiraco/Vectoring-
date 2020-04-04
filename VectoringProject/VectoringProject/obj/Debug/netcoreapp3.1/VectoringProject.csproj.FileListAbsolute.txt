@@ -1,0 +1,11 @@
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\bin\Debug\netcoreapp3.1\VectoringProject.exe
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\bin\Debug\netcoreapp3.1\VectoringProject.deps.json
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\bin\Debug\netcoreapp3.1\VectoringProject.runtimeconfig.json
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\bin\Debug\netcoreapp3.1\VectoringProject.runtimeconfig.dev.json
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\bin\Debug\netcoreapp3.1\VectoringProject.dll
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\bin\Debug\netcoreapp3.1\VectoringProject.pdb
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\obj\Debug\netcoreapp3.1\VectoringProject.csprojAssemblyReference.cache
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\obj\Debug\netcoreapp3.1\VectoringProject.AssemblyInfoInputs.cache
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\obj\Debug\netcoreapp3.1\VectoringProject.AssemblyInfo.cs
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\obj\Debug\netcoreapp3.1\VectoringProject.dll
+C:\Users\vinch\source\repos\VectoringProject\VectoringProject\obj\Debug\netcoreapp3.1\VectoringProject.pdb
